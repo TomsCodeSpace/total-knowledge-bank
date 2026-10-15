@@ -4,7 +4,7 @@
 
 💡 Tip: Click the arrows next to each heading to expand or collapse the content underneath.
 
-<summary><h2> Key Concepts </h2></summary>
+<summary><h2> # Key Concepts </h2></summary>
 
 # Variables & Constants
 
