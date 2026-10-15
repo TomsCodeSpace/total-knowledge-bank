@@ -33,3 +33,11 @@ This is a total compilation of engineering, coding, and IT all under one place, 
 - Root-cause analysis
 
 </details>
+<details>
+<summary><h2>White Belt — IT Fundamentals</h2></summary>
+
+- Hardware and operating systems
+- Basic networking
+- Command-line tools
+
+</details>
