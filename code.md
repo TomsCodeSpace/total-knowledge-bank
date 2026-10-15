@@ -1,4 +1,3 @@
-<details>
 
 # Coding Basics/White Belt/Python + CLI
 
@@ -1078,4 +1077,4 @@ else:
     # Step 5: Normal message
     print("Try again!")
 ```
-</details>
+
