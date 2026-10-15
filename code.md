@@ -4,7 +4,7 @@
 
 💡 Tip: Click the arrows next to each heading to expand or collapse the content underneath.
 
-<summary><h1> Key Concepts </h1></summary>
+<summary><h2> Key Concepts </h2></summary>
 
 # Variables & Constants
 
@@ -288,7 +288,7 @@ It adds unpredictability and makes apps more engaging.
 
 ```
 
-<summary><h1> Code Syntax </h1></summary>
+<summary><h2> Code Syntax </h2></summary>
 
 # Variables & Constants
 
@@ -748,7 +748,7 @@ event = random.choice(["Fight", "Loot", "Nothing"])
 print(event)
 ```
 
-<summary><h1> Flowcharts for Sample Projects + Key</h1></summary>
+<summary><h2> Flowcharts for Sample Projects + Key</h2></summary>
 
 ### Flowchart shape key
 
@@ -976,7 +976,7 @@ password == correct_password
 6. Print "Try again!" → Input/Output
 7. **END** → Terminator
 
-<summary><h1> Sample Projects </h1></summary>
+<summary><h2> Sample Projects </h2></summary>
 
 # PROJECT 1: Number Guessing Game
 
