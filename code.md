@@ -6,7 +6,7 @@ random inforandom info
     random info
     random info
     random info
-<summary><h2> Sample Projects </h2></summary>
+<summary><h1> Sample Projects </h1></summary>
 
 # PROJECT 1: Number Guessing Game
 
