@@ -1,6 +1,11 @@
 
 <details>
-
+random inforandom info
+    random info
+    random info
+    random info
+    random info
+    random info
 <summary><h2> Sample Projects </h2></summary>
 
 # PROJECT 1: Number Guessing Game
