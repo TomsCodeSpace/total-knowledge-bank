@@ -1,5 +1,5 @@
 
-
+<details>
 
 <summary><h2> Sample Projects </h2></summary>
 
@@ -103,4 +103,4 @@ else:
     # Step 5: Normal message
     print("Try again!")
 ```
-
+</details>
