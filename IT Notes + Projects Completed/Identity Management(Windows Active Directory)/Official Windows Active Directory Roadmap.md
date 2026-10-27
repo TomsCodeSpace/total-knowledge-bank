@@ -13,8 +13,8 @@ Each belt combines technical concepts with hands-on projects, troubleshooting sc
 | Belt | Difficulty | Primary focus |
 | --- | --- | --- |
 | White | Beginner | Identity management fundamentals and initial domain deployment |
-| Yellow | Beginner–Intermediate | User, device, and resource administration |
-| Red | Intermediate | Authentication troubleshooting and administrative automation |
+| Blue | Beginner–Intermediate | User, device, and resource administration |
+| Purple | Intermediate | Authentication troubleshooting and administrative automation |
 | Brown | Advanced | Enterprise administration, replication, and operational management |
 | Black | Expert-Level Projects | Directory architecture, security engineering, and disaster recovery |
 
@@ -57,7 +57,7 @@ Build a functioning domain environment with one domain controller, one Windows c
 
 ---
 
-# Belt 2 — Yellow Belt: User & Device Administration
+# Belt 2 — Blue Belt: User & Device Administration
 
 **Focus:** Manage identities, computers, permissions, and organizational resources.
 
@@ -92,7 +92,7 @@ Build a fictional business directory containing multiple departments, user accou
 
 ---
 
-# Belt 3 — Red Belt: Troubleshooting & Automation
+# Belt 3 — Purple Belt: Troubleshooting & Automation
 
 **Focus:** Diagnose directory failures, establish root causes, and automate routine administration.
 
