@@ -580,6 +580,7 @@ A belt is complete when the learner can:
 - Apply those concepts in a small project.
 - Trace the program's logic and data flow.
 - Identify and troubleshoot common errors.
+
 For **advanced belts (Brown/Black)**, phases should be treated as **specializations rather than exhaustive curricula**.
 The completion standard is not to memorize or master every detail within a specialization. Instead, the learner should be able to:
 - Identify the most important concepts and components.
