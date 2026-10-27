@@ -60,7 +60,7 @@ professional mastery or a requirement to complete every specialization.
 -  Basic random-number use
 </details>
 <details>
-<summary><h2>Yellow Belt: Core Logic and Data Handling</h2></summary>
+<summary><h2>Blue Belt: Core Logic and Data Handling</h2></summary>
 
 - **Goal:** Build problem-solving skills through repetition,
 collections, and basic data handling.
@@ -75,7 +75,7 @@ elements
 -  Accumulators and counters
 </details>
 <details>
-<summary><h2>Red Belt: Program Construction and Abstraction</h2></summary>
+<summary><h2>Purple Belt: Program Construction and Abstraction</h2></summary>
 
 - **Goal:** Organize code into reusable components and build larger
 programs.
@@ -148,7 +148,7 @@ small exercises or projects.
 </details>
 </details>
 <details>
-<summary><h2>Yellow Belt: Core Logic and Data Handling</h2></summary>
+<summary><h2>Blue Belt: Core Logic and Data Handling</h2></summary>
 
 - **Goal:** Build problem-solving skills through repetition,
 collections, and basic data handling.
@@ -182,7 +182,7 @@ collections, and basic data handling.
 </details>
 </details>
 <details>
-<summary><h2>Red Belt: Program Construction and Abstraction</h2></summary>
+<summary><h2>Purple Belt: Program Construction and Abstraction</h2></summary>
 
 - **Goal:** Organize code into reusable components and build larger
 programs.
@@ -456,7 +456,7 @@ projects at each belt and phase.
 - Sample Projects
 </details>
 <details>
-<summary><h2>Yellow Belt: Core Logic and Data Handling</h2></summary>
+<summary><h2>Blue Belt: Core Logic and Data Handling</h2></summary>
 
 <details>
 <summary><h3>Phase 1 --- Collections and Loops</h3></summary>
@@ -475,7 +475,7 @@ projects at each belt and phase.
 </details>
 </details>
 <details>
-<summary><h2>Red Belt: Program Construction and Abstraction</h2></summary>
+<summary><h2>Purple Belt: Program Construction and Abstraction</h2></summary>
 
 <details>
 <summary><h3>Phase 1 --- Dictionaries and Data Handling</h3></summary>
