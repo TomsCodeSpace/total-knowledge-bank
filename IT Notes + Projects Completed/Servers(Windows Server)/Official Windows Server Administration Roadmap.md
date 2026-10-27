@@ -15,8 +15,8 @@ Each belt combines technical concepts with hands-on labs, practical projects, tr
 | Belt | Level | Primary Focus |
 | --- | --- | --- |
 | White | Beginner | Server fundamentals and initial configuration |
-| Yellow | Beginner–Intermediate | IT support operations and domain administration |
-| Red | Intermediate | Systems troubleshooting and root-cause analysis |
+| Blue | Beginner–Intermediate | IT support operations and domain administration |
+| Purple | Intermediate | Systems troubleshooting and root-cause analysis |
 | Brown | Advanced | Infrastructure, security, automation, and recovery |
 | Black | Expert-Level Projects | Infrastructure engineering and architecture |
 
@@ -91,7 +91,7 @@ Build a Windows Server virtual machine, configure its network settings, create l
 
 ---
 
-# Belt 2 — Yellow Belt: IT Support Operations
+# Belt 2 — Blue Belt: IT Support Operations
 
 **Level:** Beginner–Intermediate
 
@@ -138,7 +138,7 @@ Build a fictional business environment with three departments, a domain controll
 
 ---
 
-# Belt 3 — Red Belt: Systems and Network Troubleshooting
+# Belt 3 — Purple Belt: Systems and Network Troubleshooting
 
 **Level:** Intermediate
 
