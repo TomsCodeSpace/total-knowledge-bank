@@ -47,7 +47,7 @@ Build a local network consisting of four PCs connected to a switch.
 
 ---
 
-# Belt 2 — Yellow Belt: Small Network Administration
+# Belt 2 — Blue Belt: Small Network Administration
 
 **Level:** Beginner–Intermediate
 
@@ -81,7 +81,7 @@ Build a small office network with separate staff and guest VLANs, automatic IP a
 
 ---
 
-# Belt 3 — Red Belt: Routing, Switching, and Network Services
+# Belt 3 — Purple Belt: Routing, Switching, and Network Services
 
 **Level:** Intermediate
 
