@@ -13,8 +13,8 @@ Each belt combines technical concepts with hands-on projects, simulated support 
 | Belt | Difficulty | Primary Focus |
 | --- | --- | --- |
 | White | Beginner | Windows fundamentals and client configuration |
-| Yellow | Beginner–Intermediate | User, application, and peripheral support |
-| Red | Intermediate | Troubleshooting, diagnostics, and recovery |
+| Blue | Beginner–Intermediate | User, application, and peripheral support |
+| Purple | Intermediate | Troubleshooting, diagnostics, and recovery |
 | Brown | Advanced | Endpoint administration and fleet management |
 | Black | Expert-Level Projects | Endpoint engineering, security, and architecture |
 
@@ -59,7 +59,7 @@ Configure a Windows client with a user account, network connection, required app
 
 ---
 
-# Belt 2 — Yellow Belt: User & Application Support
+# Belt 2 — Blue Belt: User & Application Support
 
 **Level:** Beginner–Intermediate
 
@@ -96,7 +96,7 @@ Complete a simulated queue of support requests involving account access, applica
 
 ---
 
-# Belt 3 — Red Belt: Troubleshooting & Recovery
+# Belt 3 — Purple Belt: Troubleshooting & Recovery
 
 **Level:** Intermediate
 
@@ -251,8 +251,8 @@ Every completed project should include:
 ## Recommended Starting Projects
 
 1. **White Belt — Windows Client Baseline:** Document system specifications, configure a local user, install updates, verify network connectivity, and produce a baseline report.
-2. **Yellow Belt — Help Desk Ticket Pack:** Resolve five simulated incidents involving a printer, account access, application installation, a mapped drive, and an audio device.
-3. **Red Belt — Broken Windows Client Lab:** Introduce controlled client faults, diagnose each issue using built-in tools, and document the evidence, repair, and post-repair verification.
+2. **Blue Belt — Help Desk Ticket Pack:** Resolve five simulated incidents involving a printer, account access, application installation, a mapped drive, and an audio device.
+3. **Purple Belt — Broken Windows Client Lab:** Introduce controlled client faults, diagnose each issue using built-in tools, and document the evidence, repair, and post-repair verification.
 
 ## Guiding Principle
 
